@@ -25,5 +25,6 @@ function sayHiToGrandma(string) {
   else if (string === string.toUpperCase() ) {
     return reply2
   }
+  else if ()
 }
 
